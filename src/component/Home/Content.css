@@ -19,9 +19,11 @@
     padding-bottom:30px;
 }
 .content{
-    font-size: larger;
+    font-size: large;
     font-weight: 400;
     font-stretch: expanded;
+    font-family: "Open Sans", sans-serif;
+  
 
 }
 .container3{
@@ -38,6 +40,8 @@
     width: 400px;
     background-color: whitesmoke;
     margin: 10px;
+    
+
 }
 .row2{
     height:auto;
